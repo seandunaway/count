@@ -1,0 +1,6 @@
+{
+    "name": "@seandunaway/count",
+    "version": "1.0.0",
+    "bin": "./count.mjs",
+    "repository": "github:seandunaway/count"
+}
